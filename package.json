@@ -1,0 +1,21 @@
+{
+  "name": "tic-tac-toe-web",
+  "version": "1.0.0",
+  "description": "A simple Tic Tac Toe game implemented in web technologies.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "web"
+  ],
+  "author": "Elliot",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
